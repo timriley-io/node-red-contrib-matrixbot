@@ -12,7 +12,9 @@
     }
   },
   "keywords": [
-    "node-red", "matrix", "bot"
+    "node-red",
+    "matrix",
+    "bot"
   ],
   "repository": {
     "type": "git",
